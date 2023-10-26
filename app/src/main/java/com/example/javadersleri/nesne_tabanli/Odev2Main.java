@@ -27,6 +27,6 @@ public class Odev2Main {
 
 
         int otoparkUcreti = o2.otoparkUcretiHesapla(2);
-        System.out.println(otoparkUcreti);
+        System.out.println("Otopark Ücreti : " + otoparkUcreti);
     }
 }

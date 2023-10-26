@@ -28,7 +28,7 @@ public class Odev2 {
                 sayac++;
             }
         }
-        System.out.println("E harfi sayısı : " + sayac);
+        System.out.println("E harfi sayısı : " + sayac + " TL");
     }
 
 
